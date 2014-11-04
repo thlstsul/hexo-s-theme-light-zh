@@ -1,0 +1,22 @@
+menu:
+  首页: /
+  LittleBook: /little-book
+  目录: /archives
+
+widgets:
+- search
+- recent_posts
+- category
+- tagcloud
+- weibo
+
+
+excerpt_link: 展开
+
+addthis:
+  enable: true
+
+fancybox: true
+
+google_analytics:
+rss:
